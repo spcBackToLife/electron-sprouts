@@ -56,7 +56,7 @@
   3. `Electron` 核心概念之-app对象、browserWindow对象
   4. `Electron` 核心概念之-菜单
 
-#### 第二章 Electron 实战之浏览器-功能开发
+#### 第三章 Electron 实战之浏览器-功能开发
 
   1. webview的基础使用简述
   2. 主进程和渲染进程简述、通信
